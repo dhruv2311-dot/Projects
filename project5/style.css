@@ -1,0 +1,98 @@
+.number{
+   display: flex ;
+   justify-content: center;
+   
+   
+}
+.items{
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 10%;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+    color: black;
+    font-weight: bolder;
+    margin: 1%;
+    padding: 5px;
+    
+}
+.all{
+    border: 1px solid black;
+    width: 200%;
+    padding:20px;
+    margin: 20px 20px;
+    background-color: blue;
+
+}
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+}
+.items1{
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 10%;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+    color: black;
+    font-weight: bolder;
+    margin: 1%;
+    padding: 5px;
+    
+
+}
+.heading1{
+    color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.number1{
+    display: flex;
+    justify-content: center;
+}
+.all1{
+    border: 1px solid black;
+    width: 200%;
+    background-color: green;
+    padding: 20px
+}
+.allone{
+    display: flex;
+    justify-content:space-evenly ;
+   
+    align-items: center;
+    margin-top: 10vh;
+
+
+}
+body{
+    background-image: url(backgroud.png);
+    background-repeat: no-repeat;
+    
+    max-height: fit-content;
+    max-width: fit-content;
+
+}
+.box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: ;
+    
+}
+.box2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-inline: 40%;
+    margin-top: 5vh;
+}

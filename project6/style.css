@@ -1,0 +1,184 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+.text1{
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    color: white;
+}
+.text2{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    color: white;
+}
+.text3{
+    position: absolute;
+    top: 140px;
+    left: 20px;
+    color: white;
+}
+.text4{
+    position: absolute;
+    top: 210px;
+    left: 20px;
+    color: white;
+}
+.text5{
+   margin-left: 3.4%;
+   margin-top: 6%;
+    
+}
+.book1{
+    display: grid;
+    
+    
+}
+.detail1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%;
+    
+}
+.detail2{
+    
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%;
+}
+.book2{
+    display: grid;
+   
+}
+.main{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+    gap: 50px;
+    margin-left: 3.5%;
+}
+.detail3{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%;
+}
+.book3{
+    display: grid;
+    
+}
+.detail4{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%;
+}
+.book4{
+    display: grid;
+    
+}
+.detail5{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%; 
+}
+.book5{
+    display: grid;
+   
+}
+.detail6{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%; 
+}
+.book6{
+    display: grid;
+   
+}
+.text6{
+    margin-left: 3.4%;
+    margin-top: 6%; 
+}
+.main2{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto ;
+    gap: 50px;
+    margin-left: 3.1%;
+
+}
+.games1{
+    display: grid;
+}
+.detail7{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3.3%; 
+}
+.detail8{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3.3%; 
+}
+.games2{
+    display: grid;
+}
+.games3{
+    display: grid;
+}
+.detail9{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3.3%; 
+}
+.games4{
+    display: grid;
+}
+.detail10{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3.3%; 
+}
+.text7{
+    margin-left: 3.4%;
+    margin-top: 6%; 
+}
+.main3{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto ;
+    gap: 50px;
+    margin-left: 3.1%;
+
+}
+.item1{
+    display: grid;
+}
+.detail11{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3.3%; 
+}
+.item2{
+    display: grid;
+}
+.detail12{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3.3%;
+}
+.item3{
+    display: grid; 
+}
+.detail13{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3.3%;
+}
+.item4{
+    display: grid;  
+}
+.detail14{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3.3%;
+} 

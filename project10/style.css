@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(52, 51, 51) ;
+}
+.main1{
+    background-color: black;
+   height: 100vh;
+   width: 14vw;
+   margin-left: 2%;
+}
+.button{
+    margin-top: -720px;
+    margin-left: 300px;
+}
+.button1{
+    margin-left: 1320px;
+    margin-top: -39px ;
+}
+.box1{display: flex;
+    background-color: rgba(193, 193, 193, 0.619);
+    width: 15%;
+    margin-left: 20%;
+    height: 2%;
+}
+.box2{
+    display: flex;
+    background-color: rgba(193, 193, 193, 0.619);
+    width: 15%;
+    margin: -70px 554px;
+    height: 2%;  
+}
+.box3{
+    display: flex;
+    background-color: rgba(193, 193, 193, 0.619);
+    width: 15%;
+    margin:9px 817px;
+    height: 2%;   
+}
+.box4{
+    display: flex;
+    background-color: rgba(193, 193, 193, 0.619);
+    width: 15%;
+    margin:-72px 1072px; 
+    height: 2%;   
+}
+.box5{
+    display: flex;
+    background-color: rgba(193, 193, 193, 0.619);
+    width: 15%;
+    margin: 95px 300px;
+    height: 2%;   
+}
+.song1{
+    width: 150px;
+    background-color: rgba(73, 72, 72, 0.306);
+    border-radius:10px ;
+}
+.song2{
+    width: 150px;
+    background-color: rgba(73, 72, 72, 0.306);
+    border-radius:10px ;
+}   
+.song3{
+    width: 150px;
+    background-color: rgba(73, 72, 72, 0.306);
+    border-radius:10px ;
+}
+.song4{
+    width: 150px;
+    background-color: rgba(73, 72, 72, 0.306);
+    border-radius:10px ;
+}
+.song5{
+    width: 150px;
+    background-color:  rgba(73, 72, 72, 0.306);
+    border-radius:10px ;
+}
+.song6{
+    width: 150px;
+    background-color: rgba(73, 72, 72, 0.306);
+    border-radius:10px ;
+}
+.songs{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 277px;
+}
+.footer{
+    background-color: rgb(52, 51, 51);
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+}

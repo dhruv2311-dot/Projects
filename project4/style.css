@@ -1,0 +1,29 @@
+.operater{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+    background-color: black;
+    padding: 10px;
+}
+.operater > div {
+    text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+  border-radius: 60%;
+}
+.item{
+   display: grid;
+   justify-content: center;
+   grid-column-start: 1;
+   grid-column-end: 3;
+   border-radius: 10%;
+
+}
+.number{
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    background-color: black;
+    justify-content: end;
+    color: white ;
+}
