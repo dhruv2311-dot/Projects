@@ -1,0 +1,18 @@
+.logo1 img{
+    height: 30%;
+    width: 13%;
+    margin: -20px 202px;
+}
+ul{
+    list-style-type: none;
+
+}
+li{
+    display: inline;
+    padding: 20px 20px;
+    
+}
+.titlediv{
+   
+    margin: -62px 428px;
+}

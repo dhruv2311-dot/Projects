@@ -1,0 +1,291 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://d3a1nozx48bspr.cloudfront.net/home/kahani.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    height: 80px;
+    justify-content: space-evenly;
+}
+
+.titlediv {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    width: 50%;
+    justify-content: space-around;
+
+}
+
+.logodiv {
+    width: 20%;
+}
+
+.looking {
+    color: white;
+    font-size: 50px;
+}
+
+.lookingdiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
+
+.Unparalleled {
+    color: white;
+    font-size: 20px;
+}
+
+.main {
+    display: flex;
+    color: grey;
+    background-color: white;
+    border-radius: 15px;
+    height: 7vw;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 80px;
+    width: 70%;
+    /* border: 2px solid red; */
+}
+
+.m1 {
+    border: 1px solid gray;
+}
+
+.m2 {
+    border: 1px solid gray;
+}
+
+.m3 {
+    border: 1px solid gray;
+}
+
+.m4 {
+    border: 1px solid gray;
+}
+
+.img1 img {
+    height: 80vh;
+    width: 80vw;
+    margin: 20px 152px;
+}
+
+.title1 {
+    /* margin: 113px 151px; */
+    margin-left: 145px;
+    /* border: 2px solid red; */
+    margin-top: 50px;
+}
+
+.row1 {
+
+    display: flex;
+    justify-content: space-evenly;
+    /* border: 2px solid red; */
+    width: 93%;
+}
+
+.image1 {
+    /* border: 2px solid gold; */
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+.img10 {
+    width: 350px;
+}
+
+.img11 {
+    width: 350px;
+    height: 250px;
+
+}
+
+.sub-info {
+    color: grey;
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-evenly;
+    /* border: 2px solid red; */
+    padding-top: 50px;
+    width: 93%;
+}
+
+.row1 {
+    padding-bottom: 50px;
+}
+
+.ex {
+
+    margin-top: 130px;
+    margin-left: 138px;
+}
+
+/* .box1 img{
+    height: 70%;
+    width: 45%;
+} */
+h4 {
+    font-size: 50px;
+}
+
+.ex-dtl {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+
+}
+
+.box-dtl {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* border: 2px solid red; */
+    width: 36%;
+    align-items: center;
+}
+
+.box1 {
+
+    height: 70%;
+    width: fit-content;
+}
+
+.new {
+    margin: 100px 135px;
+}
+
+.row3 {
+    display: flex;
+    justify-content: space-evenly;
+
+    margin: -81px 44px;
+    width: 93%;
+}
+
+.slider {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.slider1 {
+    display: flex;
+    overflow-x: auto;
+    scrollbar-width: none;
+    gap: 25px;
+    width: 80%;
+    margin-top: -150px;
+}
+
+.slider img {
+    border-radius: 20px;
+}
+
+.desti {
+    margin: 175px 136px;
+    ;
+}
+
+.add {
+    margin: 100px 136px;
+}
+
+.row4 {
+    display: flex;
+    justify-content: space-evenly;
+
+    margin: -81px 44px;
+    width: 93%;
+}
+.story{
+    margin: 140px 136px;
+}
+.story p{
+    padding: 20px 20px;
+    font-size: 18px;
+}
+/* style.css */
+
+
+
+.footer {
+    background-color: #1b2a23;
+    color: #ffffff;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+   padding: 0px 35px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.footer-column h3 {
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 10px;
+}
+
+.footer-column ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer-column ul li a:hover {
+    color: #b5b5b5;
+}
+
+.footer-bottom {
+    border-top: 1px solid #2a3a31;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px 20px;
+}
+
+.footer-bottom p {
+    color: #b5b5b5;
+    font-size: 14px;
+}
+
+.social-icons a {
+    margin-left: 15px;
+}
+
+.social-icons img {
+    width: 24px;
+    height: 24px;
+}
